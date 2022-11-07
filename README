@@ -47,5 +47,5 @@ mnozenie = a * b
 print("wynik mnozenia to ", mnozenie)
 ```
 
-fragment witania sie ze swiatme `print("hello world")`
+fragment witania sie ze swiatme `print("hello world!")`
 
