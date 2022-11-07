@@ -51,5 +51,5 @@ fragment witania sie ze swiatme `print("hello world!")`
 
 
 
-![picture/123.jpg](picture/123.jpg)
+![123.jpg](123.jpg)
 
