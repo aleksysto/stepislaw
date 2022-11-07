@@ -49,3 +49,7 @@ print("wynik mnozenia to ", mnozenie)
 
 fragment witania sie ze swiatme `print("hello world!")`
 
+
+
+![picture/123.jpeg](picture/123.jpeg)
+
